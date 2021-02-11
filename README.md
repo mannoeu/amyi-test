@@ -16,8 +16,7 @@ meses. Crie uma mini jornada sensorial seguindo o briefing abaixo:
 - Objetivo: Programar páginas dos 3 perfumes criadas por designer
 
 Telas e fontes estão salvas aqui:
-[Link para as telas](https://drive.google.com/drive/folders/1xS7r-RSciMlskJH51wfkbCt2itwkR9f3?
-usp=sharing)
+[Link para as telas](https://drive.google.com/drive/folders/1xS7r-RSciMlskJH51wfkbCt2itwkR9f3)
 
 Briefing:
 
