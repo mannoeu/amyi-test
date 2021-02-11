@@ -2,6 +2,10 @@
   <img src="/src/assets/amyi_logo.png" width="150" />
 </p>
 
+## Deploy
+
+Você pode conferir a aplicação online [Clicando aqui](https://amyi-test.netlify.app/)
+
 ## Desafio:
 
 A Amyi irá lançar uma nova versão da jornada olfativa online nos próximos
@@ -66,7 +70,6 @@ Briefing:
 - Caso o usuário selecione a opção escolher depois, não fazer nada.
 - Toda a programação deve seguir a imagem referência criada pelo
   designer.
-
 
 ## Como executar
 
